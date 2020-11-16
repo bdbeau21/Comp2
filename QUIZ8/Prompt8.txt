@@ -1,0 +1,10 @@
+Daily Quiz8 Assignment
+Write a C program that implements a queue with certain priority levels for each item.
+
+Output: 
+1
+2
+3
+4
+5
+6
