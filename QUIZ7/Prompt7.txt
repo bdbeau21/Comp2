@@ -1,0 +1,7 @@
+Daily Quiz7 Assignment
+Write a C program that implements a stack and properly executes push and pop functions.
+
+Output: 
+How many strings will be tested: 1
+Balance input: ksdjkfddk
+Yes 
