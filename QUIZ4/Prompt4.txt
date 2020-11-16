@@ -1,0 +1,6 @@
+Daily Quiz4 Assignment
+Write a C program that adds unset_flag and display_32_flags functions on a continuation of Daily Quiz3.
+
+Output: 
+1000 0000 0000 0001 0000 0000 0000 1000 
+0000 0000 0000 0001 0000 0010 0000 0000
