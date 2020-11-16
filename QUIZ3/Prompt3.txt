@@ -1,0 +1,4 @@
+Daily Quiz3 Assignment
+Write a C program that works with bite wise operators and shifts.
+
+Output: 1000 0000 0000 0001 0000 0000 0000 1000
