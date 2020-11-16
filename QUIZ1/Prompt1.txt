@@ -1,0 +1,6 @@
+Daily Quiz1 Assignment
+Write a C program that takes a positive integer and fills an array with that many random integers. The maximum number in the array is then returned.
+
+Output: 
+Input a positive integer: 8
+The maximum value in the array is: 4
